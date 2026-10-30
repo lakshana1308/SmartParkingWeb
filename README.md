@@ -1,3 +1,4 @@
+
 # Smart Parking Allocation System — Java 17 Web Application
 
 This version keeps the original SmartPark layout and adds account registration, role-based visibility, private user reservations, and in-app notifications. It uses Java 17, the built-in HTTP server, SQLite, and the SQLite JDBC driver.
@@ -41,3 +42,7 @@ If Maven is installed, you can alternatively run `mvn clean compile exec:java` f
 ## Database
 
 `smartparking.db` is created in the working directory. It stores users, vehicles, vehicle ownership, unique vehicle primary IDs, vehicle visit counts, reservations, parked vehicles, the last processed calendar date, and event history. Reservation times are interpreted using the computer’s local clock and same-day bookings; at midnight, unfinished reservations from the previous day are closed automatically. Back up this file before replacing or deleting it.
+
+
+
+

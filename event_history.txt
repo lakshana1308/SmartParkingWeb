@@ -1,0 +1,11 @@
+21:41 | ARRIVAL | Vehicle TN01A1111 registered as CAR
+21:41 | USER_REGISTERED | User registered: Madhumitha R (7010255713) with vehicle TN01A1111
+21:41 | RESERVATION | Reservation R001 for TN01A1111 at LOT-C/C01 from 22:00 to 23:00 (travel 3 min from JUNCTION-2)
+21:41 | ARRIVAL | Vehicle TN01A1113 registered as CAR
+21:42 | PARKED | Vehicle TN01A1113 assigned to LOT-A/A01 (travel 8 min)
+21:42 | ARRIVAL | Vehicle TN01A1107 registered as TWO_WHEELER
+21:42 | PARKED | Vehicle TN01A1111 assigned to LOT-A/A02 (travel 8 min)
+21:42 | PARKED | Vehicle TN01A1107 assigned to LOT-A/A04 (travel 8 min)
+21:43 | RESERVATION | Reservation R002 for TN01A1107 at LOT-C/C04 from 22:00 to 23:00 (travel 2 min from EAST-GATE)
+15:07 | DAY_ROLLOVER | Previous day's reservations closed automatically
+10:11 | DAY_ROLLOVER | Previous day's reservations closed automatically

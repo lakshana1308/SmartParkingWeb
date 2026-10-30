@@ -1,0 +1,11 @@
+SMART PARKING WEB - COMPLETE PROJECT
+
+1. Open this SmartParkingWeb folder in IntelliJ IDEA (the folder containing pom.xml).
+2. Use JDK 17 or newer.
+3. In IntelliJ Terminal, run: .\run.ps1
+4. Open the localhost URL printed in the terminal.
+5. Stop the server with Ctrl+C in the terminal.
+
+Demo admin: username admin / password admin123
+
+IMPORTANT: smartparking.db contains your existing application data. Make a backup before testing or changing the database. Do not run two copies of the server at the same time.

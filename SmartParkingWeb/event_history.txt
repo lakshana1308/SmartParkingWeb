@@ -1,0 +1,30 @@
+21:41 | ARRIVAL | Vehicle TN01A1111 registered as CAR
+21:41 | USER_REGISTERED | User registered: Madhumitha R (7010255713) with vehicle TN01A1111
+21:41 | RESERVATION | Reservation R001 for TN01A1111 at LOT-C/C01 from 22:00 to 23:00 (travel 3 min from JUNCTION-2)
+21:41 | ARRIVAL | Vehicle TN01A1113 registered as CAR
+21:42 | PARKED | Vehicle TN01A1113 assigned to LOT-A/A01 (travel 8 min)
+21:42 | ARRIVAL | Vehicle TN01A1107 registered as TWO_WHEELER
+21:42 | PARKED | Vehicle TN01A1111 assigned to LOT-A/A02 (travel 8 min)
+21:42 | PARKED | Vehicle TN01A1107 assigned to LOT-A/A04 (travel 8 min)
+21:43 | RESERVATION | Reservation R002 for TN01A1107 at LOT-C/C04 from 22:00 to 23:00 (travel 2 min from EAST-GATE)
+15:07 | DAY_ROLLOVER | Previous day's reservations closed automatically
+10:11 | DAY_ROLLOVER | Previous day's reservations closed automatically
+14:06 | DAY_ROLLOVER | Previous day's reservations closed automatically
+14:06 | DAY_ROLLOVER | Previous day's reservations closed automatically
+14:22 | DAY_ROLLOVER | Previous day's reservations closed automatically
+01:14 | EXPIRED | Reservation R001 expired after its booking date
+01:14 | EXPIRED | Reservation R002 expired after its booking date
+01:15 | EXPIRED | Reservation R001 expired after its booking date
+01:15 | EXPIRED | Reservation R002 expired after its booking date
+01:15 | ARRIVAL | Vehicle TN42BS1409 registered as CAR
+01:15 | USER_REGISTERED | User registered: Malathi (7418529637) with vehicle TN42BS1409
+01:16 | PARKED | Vehicle TN42BS1409 assigned to LOT-A/A03 (travel 8 min)
+01:16 | CHECK_OUT | Vehicle TN42BS1409 checked out from A03; duration 1 minutes; charge ₹30; receipt P000001
+02:04 | RESERVATION | Reservation R003 for TN42BS1409 at LOT-B/B01 from 16:00 to 17:00 (travel 7 min from JUNCTION-2)
+02:05 | RESERVATION | Reservation R004 for TN42BS1409 at LOT-C/C01 from 20:00 to 23:00 (travel 2 min from EAST-GATE)
+02:07 | ARRIVAL | Vehicle TN36S7477 registered as CAR
+02:07 | USER_REGISTERED | User registered: Lakshana S (8807093225) with vehicle TN36S7477
+02:08 | ARRIVAL | Vehicle TN09HJ2928 registered as CAR
+02:08 | USER_REGISTERED | User registered: priya (7708746877) with vehicle TN09HJ2928
+02:09 | ARRIVAL | Vehicle TN78HJ2939 registered as TWO_WHEELER
+02:09 | USER_REGISTERED | User registered: Sridhar (9965617777) with vehicle TN78HJ2939
